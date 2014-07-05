@@ -1,7 +1,8 @@
-google-homepage
+The Odin Project
 ===============
 <html>
 <body>
-<a href="http://www.theodinproject.com/web-development-101/html-css?ref=lnav">The Odin Project HTML/CSS project</a>
+<h1> HTML/CSS Project: Google Hompage
+<a href="http://www.theodinproject.com/web-development-101/html-css?ref=lnav">Tutorial Link</a>
 </body>
 </html>
